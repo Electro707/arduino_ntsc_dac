@@ -1,0 +1,8 @@
+*.d
+*.elf
+*.hex
+
+imageGen/*
+!imageGen/*.py
+
+.bak/
