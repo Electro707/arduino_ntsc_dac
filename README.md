@@ -1,6 +1,6 @@
-# NTSC Arduino Example
+# Composite Video Arduino Example
 
-This is code that was used in my writting of my [first](https://blogs.electro707.com/electronics/2024/06/24/Arduino-Composite-Video-Part2.html) and [second blog post](https://blogs.electro707.com/electronics/2024/06/18/Arduino-Composite-Video.html) about creating an NTSC signal from an Arduino Nano
+This is code that was used in my writting of my [first](https://blogs.electro707.com/electronics/2024/06/24/Arduino-Composite-Video-Part2.html) and [second blog post](https://blogs.electro707.com/electronics/2024/06/18/Arduino-Composite-Video.html) about creating an NTSC composite video signal from an Arduino Nano
 
 # Physical Requirements
 
